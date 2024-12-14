@@ -28,7 +28,6 @@ class HomeScreen extends StatelessWidget {
               onPressed: () {
                 Navigator.pushNamed(context, '/random-joke');
               },
-              icon: Icon(Icons.lightbulb, color: Colors.pink),
               label: Text(
                 'Random Joke',
                 style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
