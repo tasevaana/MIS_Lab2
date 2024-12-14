@@ -14,7 +14,7 @@ class RandomJokeScreen extends StatelessWidget {
           ),),
           backgroundColor: Colors.pink,
           iconTheme: IconThemeData(
-          color: Colors.white, // Back button color
+          color: Colors.white, 
         ),
 
           ),
